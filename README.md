@@ -1,3 +1,5 @@
+![Alt text](Jupiter_Project_Reference_Architecture.jpg)
+---
 # Project README
 
 ## Static Web App Deployment on AWS using DevOps Principles
